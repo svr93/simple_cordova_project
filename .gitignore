@@ -1,6 +1,6 @@
 /cordova-cli/
 /cordova-plugman/
 hooks/
-platforms/
+/app_dev/platforms/**/
 plugins/
 
