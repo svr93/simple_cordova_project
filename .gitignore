@@ -1,3 +1,6 @@
 /cordova-cli/
 /cordova-plugman/
+hooks/
+platforms/
+plugins/
 
