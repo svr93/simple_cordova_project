@@ -1,0 +1,24 @@
+{
+  "name": "simple_cordova_project",
+  "version": "0.0.1",
+  "description": "Simple Cordova project for iOS and Android development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svr93/simple_cordova_project"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "android"
+  ],
+  "author": "Vladimir Shamsheev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svr93/simple_cordova_project/issues"
+  },
+  "homepage": "https://github.com/svr93/simple_cordova_project"
+}
