@@ -29,16 +29,16 @@ P.P.S. In case of building problem
 -Dorg.gradle.daemon=true to false in the file
 platforms/android/cordova/lib/build.js (it's not good solution, but works).
 
-4.1. Emulation:
-4.1.1. Create device in AVD util.
-4.1.2. cordova run android --emulate
+4.1. Emulation: <br/>
+4.1.1. Create device in AVD util. <br/>
+4.1.2. cordova run android --emulate <br/>
 
 P.S. In case of emulator problems, copy avd dir from
 D:\Users\USERNAME\\.android to C:\Users\USERNAME\\.android
 
-4.2. Real device:
-4.2.1. adb devices
-4.2.2. cordova run android --device
+4.2. Real device: <br/>
+4.2.1. adb devices <br/>
+4.2.2. cordova run android --device <br/>
 
 P.S. In case of 'device offline' problem:
 http://www.decker.su/2014/08/adb-device-offline-android-44.html
