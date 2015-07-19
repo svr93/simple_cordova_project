@@ -17,7 +17,9 @@ https://www.npmjs.com/package/cordova#installing-from-master
 1. Set JAVA_HOME, ANDROID_HOME, add .../bin dir (JDK) to PATH,
    add .../tools and .../platform-tools dirs to PATH.
 
-2. cordova platform add android (see version in platforms/platforms.json).
+2. cordova platform remove android <br/>
+   (before: see version in platforms/platforms.json). <br/>
+   cordova platform add android (version)
 3. cordova prepare -d
 4. cordova compile -d
 
