@@ -34,7 +34,7 @@ platforms/android/cordova/lib/build.js (it's not good solution, but works).
 4.1.2. cordova run android --emulate
 
 P.S. In case of emulator problems, copy avd dir from
-D:\Users\USERNAME\.android to C:\Users\USERNAME\.android
+D:\Users\USERNAME\\.android to C:\Users\USERNAME\\.android
 
 4.2. Real device:
 4.2.1. adb devices
